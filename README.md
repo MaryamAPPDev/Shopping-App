@@ -34,16 +34,16 @@ This project demonstrates clean architecture, professional UI design, cart quant
 ## 📸 App Screenshots
 
 ### 🏠 Home Screen
-![Home Screen](assets/screenshots/home.png)
+![Home Screen](assets/homescreen.png)
 
 ### 📄 Product Detail Screen
-![Product Detail](assets/screenshots/product_detail.png)
+![Product Detail](assets/productdetail.png)
 
 ### 🛒 Cart Screen
-![Cart Screen](assets/screenshots/cart.png)
+![Cart Screen](assets/cartscreen.png)
 
 ### 💳 Checkout Dialog
-![Checkout](assets/screenshots/checkout.png)
+![Checkout](assets/checkoutdialogue.png)
 
 ---
 

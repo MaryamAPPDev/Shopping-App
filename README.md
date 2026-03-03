@@ -32,21 +32,19 @@ This project demonstrates clean architecture, professional UI design, cart quant
 ---
 
 ## 📸 App Screenshots
-
 ### 🏠 Home Screen
 <img src="assets/homescreen.png" width="250"/>
 
 ### 📄 Product Detail Screen
-![Product Detail](assets/productdetail.png)
+<img src="assets/productdetail.png" width="250"/>
 
 ### 🛒 Cart Screen
-![Cart Screen](assets/cartscreen.png)
+<img src="assets/cartscreen.png" width="250"/>
 
 ### 💳 Checkout Dialog
-![Checkout](assets/checkoutdialogue.png)
+<img src="assets/checkoutdialogue.png" width="250"/>
 
 ---
-
 
 ### 👤 Author & Contact
 

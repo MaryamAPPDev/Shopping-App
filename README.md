@@ -34,7 +34,7 @@ This project demonstrates clean architecture, professional UI design, cart quant
 ## 📸 App Screenshots
 
 ### 🏠 Home Screen
-![Home Screen](assets/homescreen.png)
+<img src="assets/homescreen.png" width="250"/>
 
 ### 📄 Product Detail Screen
 ![Product Detail](assets/productdetail.png)

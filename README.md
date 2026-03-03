@@ -2,7 +2,7 @@
 
 A modern and scalable **Flutter E-Commerce Demo Application** built using **Provider State Management** and REST API integration.
 
-This project demonstrates clean architecture, professional UI design, cart quantity management, and a complete checkout flow (demo).
+This project demonstrates clean architecture, professional UI design, cart quantity management, and a complete checkout flow.
 
 ---
 
@@ -35,9 +35,6 @@ This project demonstrates clean architecture, professional UI design, cart quant
 
 ## 📸 App Screenshots
 
-> 📌 Place your screenshots inside:  
-> `assets/screenshots/`
-
 ### 🏠 Home Screen
 ![Home Screen](assets/screenshots/home.png)
 
@@ -49,31 +46,6 @@ This project demonstrates clean architecture, professional UI design, cart quant
 
 ### 💳 Checkout Dialog
 ![Checkout](assets/screenshots/checkout.png)
-
----
-
-### 📌 Side-by-Side Preview Layout (Optional)
-
-<p align="center">
-  <img src="assets/screenshots/home.png" width="250"/>
-  <img src="assets/screenshots/product_detail.png" width="250"/>
-  <img src="assets/screenshots/cart.png" width="250"/>
-</p>
-
----
-
-## 🧠 State Management
-
-This app uses **Provider** for state management.
-
-### CartProvider Responsibilities
-- Add product to cart
-- Increase quantity
-- Decrease quantity
-- Remove all quantities
-- Calculate total price
-- Maintain unique product list
-- Notify UI on state change
 
 ---
 
@@ -90,4 +62,15 @@ dependencies:
   cached_network_image: ^3.3.1
   intl: ^0.18.1
   http: ^1.2.1
+---
 
+## 👤 Author & Contact
+
+<div align="center">
+
+### **MaryamAppDev**
+*Flutter Developer & Mobile App Enthusiast*
+
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/MaryamAPPDev)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:maryamappdev@gmail.com)
+---

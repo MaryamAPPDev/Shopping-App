@@ -18,8 +18,6 @@ This project demonstrates clean architecture, professional UI design, cart quant
 - Image preview with SliverAppBar
 - Category badge
 - Product description
-- Quantity increase / decrease
-- Dynamic total price calculation
 - Add to Cart / Remove from Cart functionality
 
 ### 🛒 Cart Screen
@@ -49,22 +47,8 @@ This project demonstrates clean architecture, professional UI design, cart quant
 
 ---
 
-## 📦 Dependencies
 
-Add the following dependencies in `pubspec.yaml`:
-
-```yaml
-dependencies:
-  flutter:
-    sdk: flutter
-
-  provider: ^6.1.2
-  cached_network_image: ^3.3.1
-  intl: ^0.18.1
-  http: ^1.2.1
----
-
-## 👤 Author & Contact
+### 👤 Author & Contact
 
 <div align="center">
 
